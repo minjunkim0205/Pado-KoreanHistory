@@ -15,3 +15,11 @@
 
 * **Environment**
     * Windows
+
+## Team members
+
+**[Team PADO](https://github.com/TeamPado)**
+
+> - [Gyuho-No](https://github.com/Gyuho-No)
+> - [cmhclient](https://github.com/cmhclient)
+> - [minjunkim0205](https://github.com/minjunkim0205)
